@@ -9,20 +9,20 @@ Ask me about Project Euler and [building computers in the game of Factorio](http
 
 ### Skills
 <p>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/c/A8B9CC" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/python/3776AB" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/oracle/F80000" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/git/F05032" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
+  <img title="C" alt="C" height="40" width="40" src="https://cdn.simpleicons.org/c/A8B9CC" />
+  <img title="Python" alt="Python" height="40" width="40" src="https://cdn.simpleicons.org/python/3776AB" />
+  <img title="Oracle" alt="Oracle" height="40" width="40" src="https://cdn.simpleicons.org/oracle/F80000" />
+  <img title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  <img title="Git" alt="Git" height="40" width="40" src="https://cdn.simpleicons.org/git/F05032" />
+  <img title="Linux" alt="Linux" height="40" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
 </p>
 
 ### Taste
 <p>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/archlinux/1793D1" />
-  <img height="40" width="40" src="https://github.com/GrapheneOS/grapheneos.org/blob/main/static/favicon.svg" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/neovim/57A143" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+  <img title="Arch Linux" alt="Arch Linux" height="40" width="40" src="https://cdn.simpleicons.org/archlinux/1793D1" />
+  <img title="GrapheneOS" alt="GrapheneOS" height="40" width="40" src="https://github.com/GrapheneOS/grapheneos.org/blob/main/static/favicon.svg" />
+  <img title="Neovim" alt="Neovim" height="40" width="40" src="https://cdn.simpleicons.org/neovim/57A143" />
+  <img title="VS Code" alt="VS Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
 </p>
 
 ### Stats
