@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**giodueck/giodueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious programmer passionate about algorithms, efficiency and low-level programming.
 
-Here are some ideas to get you started:
+I like challenging myself with problem solving and hobby projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ask me about Project Euler and [building computers in the game of Factorio](https://github.com/giodueck/factorio-computing).\
+<img alt="Project Euler profile summary" src="https://projecteuler.net/profile/giodueck.png">
+
+### Skills
+<p>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/c/A8B9CC" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/python/3776AB" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/oracle/F80000" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/git/F05032" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
+</p>
+
+### Taste
+<p>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/archlinux/1793D1" />
+  <img height="40" width="40" src="https://github.com/GrapheneOS/grapheneos.org/blob/main/static/favicon.svg" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/neovim/57A143" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+</p>
+
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giodueck&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giodueck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
