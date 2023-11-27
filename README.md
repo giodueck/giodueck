@@ -23,7 +23,7 @@ Ask me about Project Euler and [building computers in the game of Factorio](http
   <img title="GrapheneOS" alt="GrapheneOS" height="40" width="40" src="https://github.com/GrapheneOS/grapheneos.org/blob/main/static/favicon.svg" />
   <img title="Neovim" alt="Neovim" height="40" width="40" src="https://cdn.simpleicons.org/neovim/57A143" />
   <img title="VS Code" alt="VS Code" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
-  <img title="VS Code" alt="VS Code" height="40" width="40" src="https://cdn.simpleicons.org/obsidian/7C3AED" />
+  <img title="Obsidian" alt="Obsidian" height="40" width="40" src="https://cdn.simpleicons.org/obsidian/7C3AED" />
 </p>
 
 ### Stats
