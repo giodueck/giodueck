@@ -4,8 +4,7 @@ I'm a curious programmer passionate about algorithms, efficiency and low-level p
 
 I like challenging myself with problem solving and hobby projects.
 
-Ask me about Project Euler and [building computers in Factorio](https://github.com/giodueck/factorio-computing).\
-<img alt="Project Euler profile summary" src="https://projecteuler.net/profile/giodueck.png">
+Ask me about Project Euler and [building computers in Factorio](https://github.com/giodueck/factorio-computing).
 
 ### Skills
 <p>
@@ -27,6 +26,8 @@ Ask me about Project Euler and [building computers in Factorio](https://github.c
 </p>
 
 ### Stats
+<img alt="Project Euler profile summary" src="https://projecteuler.net/profile/giodueck.png">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giodueck&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giodueck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
