@@ -1,10 +1,8 @@
 ### Hello there
 
-I'm a curious programmer passionate about algorithms, efficiency and low-level programming.
+I like thinking about algorithms, efficiency and low-level programming.
 
-I like challenging myself with problem solving and hobby projects.
-
-Ask me about Project Euler and [building computers in Factorio](https://github.com/giodueck/factorio-computing).
+Ask me about Project Euler or [building computers in Factorio](https://github.com/giodueck/factorio-computing).
 
 ### Skills
 <p>
