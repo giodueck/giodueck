@@ -11,4 +11,4 @@ Ask me about Project Euler or [building computers in Factorio](https://github.co
 
 ### Stats
 <img alt="Project Euler profile summary" src="https://projecteuler.net/profile/giodueck.png">
-All done in C btw (almost as painful as it sounds)
+All done in C btw (not even as painful as it sounds)
