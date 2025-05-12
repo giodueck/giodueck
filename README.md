@@ -12,4 +12,4 @@ Ask me about Project Euler or building computers in Factorio.
 ### Stats
 <img alt="Project Euler profile summary" src="https://projecteuler.net/profile/giodueck.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giodueck&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giodueck&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
